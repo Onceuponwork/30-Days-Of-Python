@@ -285,7 +285,7 @@ whole_numbers.intersection(even_numbers) # {0, 2, 4, 6, 8, 10}
 
 python = {'p', 'y', 't', 'h', 'o','n'}
 dragon = {'d', 'r', 'a', 'g', 'o','n'}
-python.intersection(dragon)     # {'o', 'n'}
+python.intersection(dragon)     # {'n', 'o'}
 ```
 
 ### Checking Subset and Super Set
