@@ -134,7 +134,7 @@ Conditions can be nested
 if condition:
     code
     if condition:
-    code
+      code
 ```
 
 **Example: **
